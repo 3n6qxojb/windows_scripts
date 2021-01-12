@@ -1,0 +1,5 @@
+[AutoRun]
+OPEN=cdfs_autolaunch.bat
+ICON=file.ico
+LABEL=Name
+ACTION=Name for list
